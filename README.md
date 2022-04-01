@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @olayinkalafiaji
-- 👀 I’m interested in html\css
-- 🌱 I’m currently learning javaScript
+- 👀 I’m interested in html\css\javaScript\python\java
 - 💞️ I’m looking to collaborate on any development opportunities
 - 📫 How to reach me olayinkalafiaji@ymail.com
 
